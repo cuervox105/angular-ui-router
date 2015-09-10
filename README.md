@@ -1,4 +1,4 @@
-The code of this example is a copy from https://scotch.io/tutorials/angular-routing-using-ui-router.
+The code for this example is a copy from https://scotch.io/tutorials/angular-routing-using-ui-router.
 
 If you want execute this app in your localhost, you need to install a http server. For this you need to install after Nodejs.
 -- npm install http-server -g
