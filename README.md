@@ -6,4 +6,4 @@ If you want execute this app in your localhost, you need to install a http serve
 After you need to execute in the root folder: http-server
 
 Finally, the answer message for the server is: 
-Starting up http-server, serving ./ on: http://0.0.0.0;808
+Starting up http-server, serving ./ on: http://0.0.0.0:8080
